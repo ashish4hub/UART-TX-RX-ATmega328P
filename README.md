@@ -12,3 +12,5 @@
 - LEDs for output (connected to PB3, PB4, PB5)
 - Jumper wires
 - Common GND connection between both MCUs
+##   ##
+- Simulation Link : https://www.tinkercad.com/things/3ALqXRTrxDY-uart-atmega328p-tx-rx
